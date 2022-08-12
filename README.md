@@ -1,4 +1,4 @@
-# ProductTriplet
+# Nesting
 My solution to Codility training [test](https://app.codility.com/programmers/lessons/7-stacks_and_queues/nesting/)
 
 ## Description
